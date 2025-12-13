@@ -83,7 +83,7 @@
 
 ---
 
-### **🚻 Restroom Rental System**
+### **🚻 Restroom booking System**
 <p>
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" height="20"/>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="20"/>
@@ -92,7 +92,7 @@
 <p style="font-size: 18px; font-style: italic; background-color: #f5f5f5; padding: 15px; border-radius: 8px; margin: 15px 0;">
 *Restroom rental system built with PHP, HTML, and CSS for booking and management.*
 </p>
-<p style="font-size: 18px;"><strong>🔗 <a href="https://github.com/matthewtsegay/restroom-rental">View Repository</a></strong></p>
+<p style="font-size: 18px;"><strong>🔗 <a href="https://github.com/matthewtsegay/Rest-Room">View Repository</a></strong></p>
 
 ---
 
