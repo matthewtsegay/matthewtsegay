@@ -65,7 +65,7 @@
 <p style="font-size: 18px; font-style: italic; background-color: #f5f5f5; padding: 15px; border-radius: 8px; margin: 15px 0;">
 *Ecommerce platform built with Django REST framework, React frontend, PostgreSQL database, and deployed on Heroku.*
 </p>
-<p style="font-size: 18px;"><strong>🔗 <a href="https://github.com/matthewtsegay/ecommerce](https://github.com/matthewtsegay/E-commerce">View Repository</a></strong></p>
+<p style="font-size: 18px;"><strong>🔗 <a href="https://github.com/matthewtsegay/E-commerce">View Repository</a></strong></p>
 
 ---
 
