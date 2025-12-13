@@ -79,7 +79,7 @@
 <p style="font-size: 18px; font-style: italic; background-color: #f5f5f5; padding: 15px; border-radius: 8px; margin: 15px 0;">
 *Machine learning model with web interface for predicting house prices using regression algorithms.*
 </p>
-<p style="font-size: 18px;"><strong>🔗 <a href="https://github.com/matthewtsegay/house-price-predictor">View Repository</a></strong></p>
+<p style="font-size: 18px;"><strong>🔗 <a href="https://github.com/matthewtsegay/Real-state-Price--Predicter">View Repository</a></strong></p>
 
 ---
 
