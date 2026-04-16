@@ -96,7 +96,7 @@
 
 ---
 
-### **📚 Online Library Management**
+<!-- **📚 Online Library Management**
 # <p>
 #  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" height="20"/>
 #  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" height="20"/>
@@ -106,7 +106,7 @@
 # *Online library management system built with Laravel, PHP, and React JS for book tracking and user management.*
 # </p>
 # <p style="font-size: 18px;"><strong>🔗 <a href="https://github.com/matthewtsegay/online-library">View Repository</a></strong></p> 
-
+-->
 ---
 
 ## 📬 **Get In Touch**
