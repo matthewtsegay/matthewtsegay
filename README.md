@@ -97,15 +97,15 @@
 ---
 
 ### **📚 Online Library Management**
-<p>
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" height="20"/>
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" height="20"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" height="20"/>
-</p>
-<p style="font-size: 18px; font-style: italic; background-color: #f5f5f5; padding: 15px; border-radius: 8px; margin: 15px 0;">
-*Online library management system built with Laravel, PHP, and React JS for book tracking and user management.*
-</p>
-<p style="font-size: 18px;"><strong>🔗 <a href="https://github.com/matthewtsegay/online-library">View Repository</a></strong></p>
+# <p>
+#  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" height="20"/>
+#  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" height="20"/>
+#  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" height="20"/>
+#</p>
+# <p style="font-size: 18px; font-style: italic; background-color: #f5f5f5; padding: 15px; border-radius: 8px; margin: 15px 0;">
+# *Online library management system built with Laravel, PHP, and React JS for book tracking and user management.*
+# </p>
+# <p style="font-size: 18px;"><strong>🔗 <a href="https://github.com/matthewtsegay/online-library">View Repository</a></strong></p> 
 
 ---
 
