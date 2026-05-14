@@ -23,19 +23,19 @@
 ## 🧠 **Tech Stack**
 
 ### **Languages & Frameworks**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.badge?style=for-the-badge&logo=typescript&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.badge?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-05998B?style=for-the-badge&logo=fastapi&logoColor=white) ![Gin](https://img.shields.io/badge/Gin--Gonic-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.badge?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![Gin](https://img.shields.io/badge/Gin--Gonic-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### **ML & Data**
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.badge?style=for-the-badge&logo=scikit-learn&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-orange?style=for-the-badge) ![NLP](https://img.shields.io/badge/NLP-Sentence--Transformers-blue?style=for-the-badge) ![SHAP](https://img.shields.io/badge/Explainability-SHAP-purple?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-FF9900?style=for-the-badge) ![NLP](https://img.shields.io/badge/NLP-Sentence_Transformers-007ACC?style=for-the-badge) ![SHAP](https://img.shields.io/badge/Explainability-SHAP-8A2BE2?style=for-the-badge)
 
 ### **Databases & Storage**
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.badge?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.badge?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.badge?style=for-the-badge&logo=redis&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=Cloudinary&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-DD0031?style=for-the-badge&logo=redis&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 ### **Frontend & UX**
-![React](https://img.shields.io/badge/react-%2320232a.badge?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.badge?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.badge?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.badge?style=for-the-badge&logo=Flutter&logoColor=white)
+![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### **Infra & Tools**
-![Docker](https://img.shields.io/badge/docker-%230db7ed.badge?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.badge?style=for-the-badge&logo=github-actions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Vercel](https://img.shields.io/badge/vercel-%23000000.badge?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%2346E3B7.badge?style=for-the-badge&logo=render&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 **Integrations:** Payment flows (Chapa integration), Celery Background Tasks, SMTP Mail, Geocoding & Mapping.
 
@@ -70,6 +70,13 @@
 - **AI/ML:** Uses RAG-based Chatbots for education and Computer Vision for meal recognition via image status analysis.
 - **Stack:** Python, FastAPI, RAG Frameworks.
 - 🔗 **[Repository Link]** (Coming Soon)
+
+---
+
+## 📂 **Professional Vaults**
+* **[Internship-Portfolio](your-link):** Verified professional work at Medco Technology.
+* **[Framework-Evaluations](https://github.com/matthewtsegay/framework-benchmarks):** Technical benchmarks comparing DRF vs. Gin vs. FastAPI.
+* **[University-Archive](your-link):** 4 years of academic engineering evolution.
 
 ---
 
