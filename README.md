@@ -11,14 +11,33 @@
 
 ---
 
-## 🛠️ **Technical Arsenal**
+## 🚀 **Core Focus**
 
-| Domain | Expert Tech Stack |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| **Frontend** | ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Django](https://img.shields.io/badge/-Django_DRF-092E20?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-05998B?style=flat-square&logo=fastapi&logoColor=white) ![Gin](https://img.shields.io/badge/-Gin_Gonic-00ADD8?style=flat-square&logo=go&logoColor=white) |
-| **DevOps** | ![GitHub Actions](https://img.shields.io/badge/-CI/CD-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white) ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white) |
+* **AI / Machine Learning (applied)** — Production RAG, classification, and predictive performance analysis.
+* **Backend Architecture** — Scalable APIs, Modular Monolithic systems, and High-Concurrency design.
+* **AI-driven Products** — Healthcare, Education, FinTech (Payments), and Automation.
+* **Productization & Integrations** — Payment flows (Chapa), real-time notifications (SMTP/Redis), and Cloud deployments.
+
+---
+
+## 🧠 **Tech Stack**
+
+### **Languages & Frameworks**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.badge?style=for-the-badge&logo=typescript&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.badge?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-05998B?style=for-the-badge&logo=fastapi&logoColor=white) ![Gin](https://img.shields.io/badge/Gin--Gonic-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.badge?style=for-the-badge&logo=go&logoColor=white)
+
+### **ML & Data**
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.badge?style=for-the-badge&logo=scikit-learn&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-orange?style=for-the-badge) ![NLP](https://img.shields.io/badge/NLP-Sentence--Transformers-blue?style=for-the-badge) ![SHAP](https://img.shields.io/badge/Explainability-SHAP-purple?style=for-the-badge)
+
+### **Databases & Storage**
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.badge?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.badge?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.badge?style=for-the-badge&logo=redis&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=Cloudinary&logoColor=white)
+
+### **Frontend & UX**
+![React](https://img.shields.io/badge/react-%2320232a.badge?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.badge?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.badge?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.badge?style=for-the-badge&logo=Flutter&logoColor=white)
+
+### **Infra & Tools**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.badge?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.badge?style=for-the-badge&logo=github-actions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Vercel](https://img.shields.io/badge/vercel-%23000000.badge?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%2346E3B7.badge?style=for-the-badge&logo=render&logoColor=white)
+
+**Integrations:** Payment flows (Chapa integration), Celery Background Tasks, SMTP Mail, Geocoding & Mapping.
 
 ---
 
@@ -27,40 +46,30 @@
 ### 1. 🏪 **Nubu-Store: Modular E-Commerce Ecosystem**
 *A high-cohesion, loosely-coupled modular monolithic system designed to solve modern market inefficiencies.*
 - **Architecture:** Modular Monolith focusing on domain separation (Auth, Cart, Orders, Payment).
-- **Backend:** Django REST Framework + **Redis** (Celery for background tasks & Caching) + SMTP for automated mailing.
+- **Backend:** Django REST Framework + **Redis** (Celery for background tasks & Caching).
 - **Frontend:** Next.js (Deployed on Vercel).
 - **Quality Assurance:** Unit tested with **Pytest**; Performance/Stress tested with **Locust**.
-- **Key Features:** Chapa Payment integration (Mocked), Cloudinary media management, and PostgreSQL persistence.
+- **Key Features:** Chapa Payment integration (Mocked), Cloudinary media management, and PostgreSQL.
 - 🔗 **[Live Demo](https://nubu-store.vercel.app/)** | **[Repository](https://github.com/matthewtsegay/E-commerce-Platform)**
 
 ### 2. 🏫 **Full-Stack School Management System**
-*Digital transformation of traditional school workflows, integrating Finance, Attendance, and Performance Prediction.*
-- **Problem Solved:** Automates registration, student tracking, and financial invoicing to eliminate manual errors.
+*Digital transformation of school workflows, integrating Finance, Attendance, and Performance Prediction.*
 - **Innovation:** QR-based attendance scanning and **AI-driven early performance analysis** to predict student outcomes.
-- **Architecture Note:** Currently DRF; future roadmap includes migrating Payment to **Go (Gin)** for high concurrency and AI to **FastAPI**.
+- **Architecture Note:** Roadmap includes migrating Payment to **Go (Gin)** for high concurrency and AI to **FastAPI**.
 - **Stack:** React + TS + Vite (Frontend) | DRF (Backend).
 - 🔗 **[Repository Link]** (Coming Soon)
 
 ### 3. 🎓 **AI-Supported Smart Way of Teaching Kids**
 *A role-based educational platform designed to personalize the learning journey for children.*
 - **Core Logic:** A recommendation engine that analyzes kid performance to suggest specific tutor videos and tests.
-- **Roles:** Fine-grained Auth/Authz for Teachers, Parents, and Kids.
 - **Stack:** Django REST Framework (API) | Flutter (Mobile App).
 - 🔗 **[Repository Link]** (Coming Soon)
 
 ### 4. 🍎 **AI Nutrition Recommender & Ed-Tech Platform**
 *Personalized health status analysis and meal recommendation system for parents.*
-- **AI/ML:** Uses RAG-based Chatbots for education and Computer Vision for meal recognition.
-- **Feature:** Analyzes height/weight status to recommend daily meals and provides nutritional content analysis of food images.
+- **AI/ML:** Uses RAG-based Chatbots for education and Computer Vision for meal recognition via image status analysis.
 - **Stack:** Python, FastAPI, RAG Frameworks.
 - 🔗 **[Repository Link]** (Coming Soon)
-
----
-
-## 📂 **Professional Vaults**
-* **[Internship-Portfolio](your-link):** Verified professional work at Medco Technology.
-* **[Framework-Evaluations](https://github.com/matthewtsegay/framework-benchmarks):** Technical benchmarks comparing DRF vs. Gin vs. FastAPI.
-* **[University-Archive](your-link):** 4 years of academic engineering evolution.
 
 ---
 
