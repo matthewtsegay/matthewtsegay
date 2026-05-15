@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E7D32&center=true&vCenter=true&width=600&lines=Matewos+Tsegay+kassa;software+Engineer + and + System+Architect;Backend+%26+AI+Engineer;Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E7D32&center=true&vCenter=true&width=600&lines=Matewos+Tsegay+kassa;software+Engineer;System+Architect;Backend+%26+AI+Engineer;Full-Stack+Developer" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 📋 **About Me**
 <p align="center">
-  <i>I am a 5th-year Software Engineering student at Mekelle University. I believe that being an Engineer starts long before writing code—it begins with <b>deeply understanding real-world problems.</b> My approach focuses on domain analysis, defining functional and non-functional requirements, and architecting systems that are modular and scalable. I don't just "make software"; I build <b>last-served systems</b> that solve problems at their roots.</i>
+  <i>I am a 5th-year Software Engineering student at Mekelle University. I believe that being an Engineer starts long before writing code—it begins with <b>deeply understanding real-world problems.</b> My approach focuses on domain analysis, defining functional and non-functional requirements, and architecting systems that are modular and scalable. I don't just "make software"; I build <b>long-term system quality</b> that solve problems at their roots.</i>
 </p>
 
 ---
