@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E7D32&center=true&vCenter=true&width=600&lines=Matyos+Tsegay;Systems+Architect;Backend+%26+AI+Engineer;Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E7D32&center=true&vCenter=true&width=600&lines=Matewos+Tsegay+kassa;software+Engineer;Systems+Architect;Backend+%26+AI+Engineer;Full-Stack+Developer" alt="Typing SVG" />
 </div>
 
 ---
@@ -43,7 +43,7 @@
 
 ## 🚀 **Core Engineered Solutions**
 
-### 1. 🏪 **Nubu-Store: Modular E-Commerce Ecosystem**
+### 🏪 **Nubu-Store: Modular E-Commerce Ecosystem**
 *A high-cohesion, loosely-coupled modular monolithic system designed to solve modern market inefficiencies.*
 - **Architecture:** Modular Monolith focusing on domain separation (Auth, Cart, Orders, Payment).
 - **Backend:** Django REST Framework + **Redis** (Celery for background tasks & Caching).
@@ -52,20 +52,20 @@
 - **Key Features:** Chapa Payment integration (Mocked), Cloudinary media management, and PostgreSQL.
 - 🔗 **[Live Demo](https://nubu-store.vercel.app/)** | **[Repository](https://github.com/matthewtsegay/E-commerce-Platform)**
 
-### 2. 🏫 **Full-Stack School Management System**
+### 🏫 **Full-Stack School Management System**
 *Digital transformation of school workflows, integrating Finance, Attendance, and Performance Prediction.*
 - **Innovation:** QR-based attendance scanning and **AI-driven early performance analysis** to predict student outcomes.
 - **Architecture Note:** Roadmap includes migrating Payment to **Go (Gin)** for high concurrency and AI to **FastAPI**.
 - **Stack:** React + TS + Vite (Frontend) | DRF (Backend).
 - 🔗 **[Repository Link]** (Coming Soon)
 
-### 3. 🎓 **AI-Supported Smart Way of Teaching Kids**
+### 🎓 **AI-Supported Smart Way of Teaching Kids**
 *A role-based educational platform designed to personalize the learning journey for children.*
 - **Core Logic:** A recommendation engine that analyzes kid performance to suggest specific tutor videos and tests.
 - **Stack:** Django REST Framework (API) | Flutter (Mobile App).
 - 🔗 **[Repository Link]** (Coming Soon)
 
-### 4. 🍎 **AI Nutrition Recommender & Ed-Tech Platform**
+### 🍎 **AI Nutrition Recommender & Ed-Tech Platform**
 *Personalized health status analysis and meal recommendation system for parents.*
 - **AI/ML:** Uses RAG-based Chatbots for education and Computer Vision for meal recognition via image status analysis.
 - **Stack:** Python, FastAPI, RAG Frameworks.
