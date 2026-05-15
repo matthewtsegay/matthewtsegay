@@ -1,16 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=90EE90&height=120&section=header&text=MATYOS%20TSEGAY&fontSize=50&fontColor=ffffff" alt="Header" />
-  <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E7D32&center=true&vCenter=true&width=600&lines=Systems+Architect;Backend+%26+AI+Engineer;Full-Stack+Developer" alt="Roles" />
-</div>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E7D32&center=true&vCenter=true&width=600&lines=Matyos+Tsegay;Systems+Architect;Backend+%26+AI+Engineer;Full-Stack+Developer" alt="Typing SVG" /></div>
 
-## ![About Me](https://img.shields.io/badge/-About%20Me-90EE90?style=for-the-badge&labelColor=90EE90&logoColor=white)
 
-<p align="center">
-  <i>I am a 5th-year Software Engineering student at Mekelle University. I believe that being an Engineer starts long before writing code—it begins with <b>deeply understanding real-world problems.</b> My approach focuses on domain analysis, defining functional and non-functional requirements, and architecting systems that are modular and scalable. I don't just "make software"; I build <b>last-served systems</b> that solve problems at their roots.</i>
-</p>
+
+---## 📋 **About Me**<p align="center">
+
+<i>I am a 5th-year Software Engineering student at Mekelle University. I believe that being an Engineer starts long before writing code—it begins with <b>deeply understanding real-world problems.</b> My approach focuses on domain analysis, defining functional and non-functional requirements, and architecting systems that are modular and scalable. I don't just "make software"; I build <b>last-served systems</b> that solve problems at their roots.</i></p>
 
 ---
 
