@@ -102,16 +102,3 @@
   <a href="https://www.linkedin.com/in/matyos-tsegay-712435353"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://t.me/@M_T2127"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </div>
----
-## 📊 **GitHub Metrics**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matthewtsegay&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matthewtsegay&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
-## 🛠️ **Top Languages**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthewtsegay&layout=compact&theme=tokyonight&hide=html,css" />
-</div>
