@@ -90,7 +90,7 @@
 ---
 
 ## 📂 **Professional Vaults**
-* **[Internship-Portfolio](your-link):** Verified professional work at Medco Technology.
+* **[Internship-Portfolio](https://github.com/matthewtsegay/internship-projects):** Verified professional work at Medco Technology.
 * **[Framework-Evaluations](https://github.com/matthewtsegay/framework-benchmarks):** Technical benchmarks comparing DRF vs. Gin vs. FastAPI.
 * **[University-Archive](your-link):** 4 years of academic engineering evolution.
 
