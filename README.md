@@ -51,7 +51,7 @@
 - **Backend:** Django REST Framework (DRF) + Redis + PostgreSQL + SMTP.
 - **Frontend:** Next.js + Tailwind CSS (Deployed on Vercel).
 - **Key Achievements:** Modular domain design (Auth, Orders, Payments), Pytest coverage, and Locust performance benchmarking.
-- 🔗 **[Live Demo]((https://ecommerce-platform-nebustore.vercel.app/))** | **[Repository](https://github.com/matthewtsegay/E-commerce-Platform)**
+- 🔗 **[Live Demo](https://ecommerce-platform-nebustore.vercel.app/)** | **[Repository](https://github.com/matthewtsegay/E-commerce-Platform)**
 
 ---
 
