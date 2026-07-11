@@ -6,7 +6,7 @@
 
 ## 📋 **About Me**
 <p align="center">
-  <i>I am a 5th-year Software Engineering student at Mekelle University. I believe that being an Engineer starts long before writing code—it begins with <b>deeply understanding real-world problems.</b> My approach focuses on domain analysis, defining functional and non-functional requirements, and architecting systems that are modular and scalable. I don't just "make software"; I build <b>last-served systems</b> that solve problems at their roots.</i>
+  <i>I am a Software Engineering graduate from Mekelle University with a passion for designing and building scalable, reliable, and impactful software solutions. I believe that great software engineering starts long before writing code—it begins with <b>understanding real-world problems</b>, analyzing user needs, and designing effective solutions. My approach focuses on domain analysis, defining functional and non-functional requirements, and architecting systems that are modular, maintainable, and scalable. I enjoy transforming ideas into high-quality applications that solve meaningful problems and create value for users while continuously learning and growing as a software engineer.</i>
 </p>
 
 ---
