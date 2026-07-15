@@ -74,7 +74,7 @@
 
 - **Stack:** Django REST Framework (API) | Flutter (Mobile App).
 - **Core Feature:** Fine-grained RBAC for Teachers, Parents, and Kids + AI Recommendation Engine.
-- 🔗 **[Repository](https://github.com/matthewtsegay/E-commerce-Platform)**
+- 🔗 **[Repository](https://github.com/AI-supported-smart-way-of-teaching-kids/Backend))**
 
 ---
 
