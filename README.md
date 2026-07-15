@@ -23,10 +23,7 @@
 ## 🧠 **Tech Stack**
 
 ### **Languages & Frameworks**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![Gin](https://img.shields.io/badge/Gin--Gonic-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-### **ML & Data**
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-FF9900?style=for-the-badge) ![NLP](https://img.shields.io/badge/NLP-Sentence_Transformers-007ACC?style=for-the-badge) ![SHAP](https://img.shields.io/badge/Explainability-SHAP-8A2BE2?style=for-the-badge)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) 
 
 ### **Databases & Storage**
 ![PostgreSQL](https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-DD0031?style=for-the-badge&logo=redis&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
@@ -74,7 +71,7 @@
 
 - **Stack:** Django REST Framework (API) | Flutter (Mobile App).
 - **Core Feature:** Fine-grained RBAC for Teachers, Parents, and Kids + AI Recommendation Engine.
-- 🔗 **[Repository](https://github.com/AI-supported-smart-way-of-teaching-kids/Backend))**
+- 🔗 **[Repository](https://github.com/AI-supported-smart-way-of-teaching-kids/Backend)**
 
 ---
 
